@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jonathanlaguerre/AndroidStudioProjects/Instagram/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/jonathanlaguerre/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-154d288cc11e9d70d30316c133de829700edf656.jar" />
+    </item>
+    <item
+        jar="/Users/jonathanlaguerre/AndroidStudioProjects/Instagram/app/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1ad9f635c0e743663c645a57d89ad5873bb00b1">
+        <dex dex="/Users/jonathanlaguerre/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/debug/classes-4306e5c7ca7b7d775c099687b34eaed2b24a663f.jar" />
+    </item>
+    <item
+        jar="/Users/jonathanlaguerre/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.5/77bf7cacf9cefe19dc105e5425d2eb1bb5285881/android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="/Users/jonathanlaguerre/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.5-723823dd511902329966b32f9c2c517d89a1e6bd.jar" />
+    </item>
+    <item
+        jar="/Users/jonathanlaguerre/AndroidStudioProjects/Instagram/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/jonathanlaguerre/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/debug/classes-09cdd2b0524c99ce605c003cdbdc7874724e27ea.jar" />
+    </item>
+    <item
+        jar="/Users/jonathanlaguerre/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/jonathanlaguerre/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-c3afa966aaf769bfbb15f79ecc66f640c58c32aa.jar" />
+    </item>
+    <item
+        jar="/Users/jonathanlaguerre/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/jonathanlaguerre/AndroidStudioProjects/Instagram/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-462b770856f90c9e12e3b2c0f7312aa54d45fdb2.jar" />
+    </item>
+
+</items>
